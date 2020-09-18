@@ -1,0 +1,2 @@
+require('./SquareComponent');
+require('./NavigationComponent');
